@@ -14,7 +14,7 @@ If looking at the old Github repository, display alert.
 - lasted commit date is a year ago.
 ![instruction](screenshot3.png)
 
-## Usage
+## Install
 
 ````
 $ git clone git@github.com:syossan27/github-freshness.git
@@ -23,7 +23,6 @@ $ git clone git@github.com:syossan27/github-freshness.git
 ![instruction](usage1.png)
 ![instruction](usage2.png)
 
-## Install
 
 ## License
 
