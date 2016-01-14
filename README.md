@@ -1,5 +1,7 @@
 # github-freshness
 
+![instruction](icon128.png)
+
 Display lasted commit date.
 If looking at the old Github repository, display alert.
 
@@ -31,3 +33,9 @@ $ git clone git@github.com:syossan27/github-freshness.git
 ## Author
 
 [syossan27](https://github.com/syossan27)
+
+## Copyright
+
+Icon create: flaticon
+
+http://jp.freepik.com/free-icon/github-logo_696676.htm
