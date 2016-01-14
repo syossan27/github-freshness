@@ -1,0 +1,10 @@
+{
+	"name": "Qiita Search",
+	"version": "2",
+	"manifest_version": 2,
+	"description": "Qiitaの日報を除外して検索するツール",
+	"browser_action": {
+		"default_icon": "image/icon.png",
+		"default_popup": "popup.html"
+	}
+}
