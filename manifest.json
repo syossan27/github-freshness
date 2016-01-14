@@ -1,10 +1,18 @@
 {
-	"name": "Qiita Search",
-	"version": "2",
-	"manifest_version": 2,
-	"description": "Qiitaの日報を除外して検索するツール",
-	"browser_action": {
-		"default_icon": "image/icon.png",
-		"default_popup": "popup.html"
-	}
+  "name": "github-freshness",
+  "version": "1",
+  "manifest_version": 2,
+  "description": "Alert that looking at the old Github repository.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["jquery.min.js","moment.min.js","script.js"],
+      "run_at": "document_start"
+    }
+  ]
 }
