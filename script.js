@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function(){
   var last_commit_title = ($("time").first())[0].getAttribute("title")
   var last_commit_datetime = ($("time").first())[0].getAttribute("datetime")
   var date = moment(last_commit_datetime)
