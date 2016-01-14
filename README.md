@@ -1,10 +1,27 @@
 # github-freshness
 
-Overview
+Display lasted commit date.
+If looking at the old Github repository, display alert.
 
 ## Description
 
+- Display lasted commit date.
+![instruction](screenshot1.png)
+
+- lasted commit date is half a year ago.
+![instruction](screenshot2.png)
+
+- lasted commit date is a year ago.
+![instruction](screenshot3.png)
+
 ## Usage
+
+````
+$ git clone git@github.com:syossan27/QiitaSearch.git
+````
+
+![instruction](usage1.png)
+![instruction](usage2.png)
 
 ## Install
 
