@@ -17,7 +17,7 @@ If looking at the old Github repository, display alert.
 ## Usage
 
 ````
-$ git clone git@github.com:syossan27/QiitaSearch.git
+$ git clone git@github.com:syossan27/github-freshness.git
 ````
 
 ![instruction](usage1.png)
