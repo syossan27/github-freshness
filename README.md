@@ -18,13 +18,8 @@ If looking at the old Github repository, display alert.
 
 ## Install
 
-````
-$ git clone git@github.com:syossan27/github-freshness.git
-````
-
-![instruction](usage1.png)
-![instruction](usage2.png)
-
+Install Here！
+[Chrome WebStore - github-freshness](https://chrome.google.com/webstore/detail/github-freshness/kaefmhacdbcfonijfpgnkkgccfkbgbhg?hl=ja)
 
 ## License
 
