@@ -1,6 +1,6 @@
 $(document).ready(function(){
-  var last_commit_title = ($("time").first())[0].getAttribute("title")
-  var last_commit_datetime = ($("time").first())[0].getAttribute("datetime")
+  var last_commit_title = document.querySelector('relative-time').title;
+  var last_commit_datetime = document.querySelector('relative-time').getAttribute('datetime');
   var date = moment(last_commit_datetime)
   var now = moment()
   var diff_date = date.diff(now, 'months')
