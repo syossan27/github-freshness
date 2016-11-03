@@ -1,6 +1,6 @@
 {
   "name": "github-freshness",
-  "version": "1",
+  "version": "2",
   "manifest_version": 2,
   "description": "Alert that looking at the old Github repository.",
   "icons": {
