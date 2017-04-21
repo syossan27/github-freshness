@@ -7,7 +7,7 @@ $(document).ready(function () {
 
 	var insertElement = document.createElement('p');
 	insertElement.setAttribute('class', 'container');
-	insertElement.style.cssText = 'background-color: #fafafa;' +
+	insertElement.style.cssText = 'background-color: ##fafbfc;' +
                                 'margin-top: 15px;' +
                                 'font-size: 15px;' +
                                 'font-weight: bold;' +
